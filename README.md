@@ -25,3 +25,7 @@ Wow momo = https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-m
 proxyServer = "https://cors-anywhere.herokuapp.com/"
 
 ID wali API = https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=28.7040592&lng=77.10249019999999&restaurantId=${id}
+
+
+
+# Swiggy Clone
